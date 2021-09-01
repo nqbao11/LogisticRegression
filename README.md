@@ -6,12 +6,15 @@
 - Classification: vì đầu ra là xác xuất để thuộc 1 lớp, nên được xem như là bài toán phân loại.
 2. Hàm activate:
              
-        <p> <img src="https://bit.ly/3zBHbsH" align="center" border="0" alt="y = f( w^{T}x) " width="215" height="52" /> </p>
+        <img src="https://bit.ly/3zBHbsH" align="center" border="0" alt="y = f( w^{T}x) " width="215" height="52" /> 
+        <br>
+         Nếu đặt:
         
-        <p> Nếu đặt </p> 
-        <p> <img src="https://bit.ly/3BzZr6n" align="center" border="0" alt="s = w^Tx" width="160" height="42" /> </p> 
-        <p> Thì </p>
-        <p> <img src="https://bit.ly/3gS5rzd" align="center" border="0" alt="f(s) = \frac{1}{1 + e^{-s}} \triangleq \sigma(s)" width="403" height="94" /> </p>
-        <p> Gọi là **hàm signmoid** </p>
+         <img src="https://bit.ly/3BzZr6n" align="center" border="0" alt="s = w^Tx" width="160" height="42" />
+        <br>
+        Thì: 
+        <img src="https://bit.ly/3gS5rzd" align="center" border="0" alt="f(s) = \frac{1}{1 + e^{-s}} \triangleq \sigma(s)" width="403" height="94" /> 
+         <br>
+         Gọi là **hàm signmoid** 
 
     
