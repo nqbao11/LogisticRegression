@@ -8,10 +8,10 @@
         <img src="https://bit.ly/3t2TbRx" align="center" border="0" alt="f(w^Tx)" width="122" height="44" />
         <br>
         Nếu đặt:
-        <img src="https://bit.ly/2WFagVB" align="center" border="0" alt="s = w^Tx" width="142" height="36" />
+        <img src="http://www.sciweavers.org/tex2img.php?eq=s%20%3D%20w%5ETx&bc=White&fc=Black&im=jpg&fs=24&ff=arev&edit=0" align="center" border="0" alt="s = w^Tx" width="142" height="36" />
         <br>
         Thì: 
-        <img src="https://bit.ly/3gS5rzd" align="center" border="0" alt="f(s) = \frac{1}{1 + e^{-s}} \triangleq \sigma(s)" width="350" height="86" />
+        <img src="http://www.sciweavers.org/tex2img.php?eq=f%28s%29%20%3D%20%5Cfrac%7B1%7D%7B1%20%2B%20e%5E%7B-s%7D%7D%20%5Ctriangleq%20%5Csigma%28s%29&bc=White&fc=Black&im=jpg&fs=24&ff=arev&edit=0" align="center" border="0" alt="f(s) = \frac{1}{1 + e^{-s}} \triangleq \sigma(s)" width="350" height="86" />
         <br>
         Gọi là **hàm signmoid** 
 
