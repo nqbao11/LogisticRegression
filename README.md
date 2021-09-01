@@ -5,11 +5,12 @@
 - Regression: Đầu ra là một số thực thuộc khoảng (0,1), là xác suất để một điểm dữ liệu **x** thuộc một class *y*
 - Classification: vì đầu ra là xác xuất để thuộc 1 lớp, nên được xem như là bài toán phân loại.
 2. Hàm activate:
-        <img src="http://www.sciweavers.org/tex2img.php?eq=y%20%3D%20f%28%20w%5E%7BT%7Dx%29%20&bc=White&fc=Black&im=jpg&fs=12&ff=modern&edit=0" align="center" border="0" alt="y = f( w^{T}x) " width="86" height="21"/>
+       <p> <img src="https://bit.ly/3zBHbsH" align="center" border="0" alt="y = f( w^{T}x) " width="215" height="52" /> </p>
+        
         Nếu đặt: 
-        $$ s = w^Tx $$
+        <p> <img src="https://bit.ly/3BzZr6n" align="center" border="0" alt="s = w^Tx" width="160" height="42" /> </p> 
         Thì:
-        $$ f(s) = \frac{1}{1 + e^{-s}} \triangleq \sigma(s) $$
+        <p> <img src="https://bit.ly/3gS5rzd" align="center" border="0" alt="f(s) = \frac{1}{1 + e^{-s}} \triangleq \sigma(s)" width="403" height="94" /> </p>
         Gọi làm **hàm signmoid**
 
     
